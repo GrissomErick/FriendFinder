@@ -2,14 +2,14 @@
 UNC Coding Boot Camp - FriendFinder - Assignment #11 (Node &amp; Express Server)
  <p></p>
  
-FriendFinder is a web application
+**Project Description** - FriendFinder is a web application
 
 **Bonus** - 
 
 ## Direct Application Links
 The homework submission guide outlines animated screenshots or video is required to submit this homework assignment. I have included direct links below and embedded GIF images within the individual application Readme files.
 
-*[FriendFinder](http://www.google.com)
+* [FriendFinder](http://www.google.com)
 
 ## Local Environment Setup
 To use FriendFinder web application application on your local environment you must accomplish the following initial steps below:
