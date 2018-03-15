@@ -12,7 +12,7 @@ The homework submission guide outlines animated screenshots or video is required
 * [FriendFinder](http://www.google.com)
 
 ## Local Environment Setup
-To use FriendFinder web application application on your local environment you must accomplish the following initial steps below:
+To use FriendFinder web application application from your local environment, you must accomplish the following steps below:
 
 **Step 1 - Clone my repo using the command line below.**
 ```
