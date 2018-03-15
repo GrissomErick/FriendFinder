@@ -6,8 +6,8 @@ UNC Coding Boot Camp - FriendFinder - Assignment #11 (Node &amp; Express Server)
 
 **Bonus** - 
 
-## Direct Application Links
-The homework submission guide outlines animated screenshots or video is required to submit this homework assignment. I have included direct links below and embedded GIF images within the individual application Readme files.
+## Application Heroku Link
+The link below will give you direct access to FriendFinder web application using your web browser via the Heroku web service. (NOTE: There will be a momentary delay when first accessing the Heroku servers.)
 
 * [FriendFinder](http://www.google.com)
 
