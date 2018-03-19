@@ -17,7 +17,7 @@ The link below will give you direct access to FriendFinder web application using
 * [FriendFinder](https://evening-ridge-94356.herokuapp.com/)
 
 ## Local Environment Setup
-To use FriendFinder web application application from your local environment, you must accomplish the following steps below:
+To use the FriendFinder web application application from your local environment, you must accomplish the following steps below:
 
 **Step 1 - Clone my repo using the command line below.**
 ```
