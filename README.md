@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://github.com/GrissomErick/FriendFinder/blob/master/images/friendfinder.png?raw=true" alt="Project logo"></img>
+</p>
+
 # FriendFinder
 UNC Coding Boot Camp - FriendFinder - Assignment #11 (Node &amp; Express Server)
  <p></p>
