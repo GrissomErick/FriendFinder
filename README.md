@@ -33,10 +33,26 @@ npm install
 ```
 **Step 4 - Start the application server using the command line below**
 ```
-nodemon server.js
+node server.js
 ```
+
 ## Technology used
-- Node.js - [https://nodejs.org/en/](https://nodejs.org/en/)
+- node.js - [https://nodejs.org/en/](https://nodejs.org/en/)
+- heroku-cli NPM Package - [https://www.npmjs.com/package/heroku-cli](https://www.npmjs.com/package/heroku-cli)
+- body-parser NPM Package - [https://www.npmjs.com/package/body-parser](https://www.npmjs.com/package/body-parser)
+- express NPM Package - [https://www.npmjs.com/package/express](https://www.npmjs.com/package/express)
+- path NPM Package - [https://www.npmjs.com/package/path](https://www.npmjs.com/package/path)
+
+<!--
+- node.js - [https://nodejs.org/en/](https://nodejs.org/en/)
+- mysql NPM Package - [https://www.npmjs.com/package/mysql](https://www.npmjs.com/package/mysql)
+- inquirer NPM Package - [https://www.npmjs.com/package/inquirer](https://www.npmjs.com/package/inquirer)
+- cli-table NPM Package - [https://www.npmjs.com/package/cli-table](https://www.npmjs.com/package/cli-table)
+- heroku-cli NPM Package - [https://www.npmjs.com/package/heroku-cli](https://www.npmjs.com/package/heroku-cli)
+- express NPM Package - [https://www.npmjs.com/package/express](https://www.npmjs.com/package/express)
+- path - [https://www.npmjs.com/package/path](https://www.npmjs.com/package/path)
+- body-parser NPM Package - [https://www.npmjs.com/package/body-parser](https://www.npmjs.com/package/body-parser)
+-->
 
 ## Built With
 
