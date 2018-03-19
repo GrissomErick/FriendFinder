@@ -13,7 +13,7 @@ UNC Coding Boot Camp - FriendFinder - Assignment #11 (Node &amp; Express Server)
 ## Application Heroku Link
 The link below will give you direct access to FriendFinder web application using your web browser via the Heroku web service. (NOTE: There will be a momentary delay when first accessing the Heroku servers.)
 
-* [FriendFinder](http://www.google.com)
+* [FriendFinder](https://evening-ridge-94356.herokuapp.com/)
 
 ## Local Environment Setup
 To use FriendFinder web application application from your local environment, you must accomplish the following steps below:
