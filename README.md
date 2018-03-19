@@ -6,7 +6,7 @@
 UNC Coding Boot Camp - FriendFinder - Assignment #11 (Node &amp; Express Server)
  <p></p>
  
-**Project Description** - FriendFinder is a full-stack web application site that records the answers from a 10 question survey, then compares your survey with the surveys from other users. The application will then display the name and picture of the user with the best overall match to your survey.
+**Project Description** - FriendFinder is a full-stack web application site that records the answers from a 10 question survey, then compares your survey with the surveys from other users. The application will then display the name and picture of the user with the best overall match.
 
 **Bonus** - 
 
