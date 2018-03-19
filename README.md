@@ -46,5 +46,3 @@ nodemon server.js
 ## Author
 
 * **Erick Grissom** - *JS/Node.js/Express Server* - [Erick Grissom FriendFinder Repo](https://github.com/GrissomErick/FriendFinder)
-
-
