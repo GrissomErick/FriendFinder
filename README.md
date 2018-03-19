@@ -39,7 +39,7 @@ nodemon server.js
 
 ## Built With
 
-* VS Code v1.20 - [https://code.visualstudio.com/](https://code.visualstudio.com/)
+* VS Code - [https://code.visualstudio.com/](https://code.visualstudio.com/)
 * Git Tools - [https://git-scm.com/download](https://git-scm.com/download)
 * Live Markdown Editor - [https://jbt.github.io/markdown-editor/](https://jbt.github.io/markdown-editor/)
 
