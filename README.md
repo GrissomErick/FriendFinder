@@ -8,11 +8,12 @@ UNC Coding Boot Camp - FriendFinder - Assignment #11 (Node &amp; Express Server)
  
 **Project Description** - FriendFinder is a full-stack web application that records the answers from a 10 question survey, then compares your survey with the surveys from other users. The application will then display the name and picture of the user with the best overall match.
 
-**Bonus** - 
+**Bonus** - Began reworking plain FriendFinder boostrap inteface. [Take a look.](http://s3.amazonaws.com/ewg.uncbc/friendfinder/index.html)   
 
 ## Application Heroku Link
 The link below will give you direct access to FriendFinder web application using your web browser via the Heroku web service. (NOTE: There will be a momentary delay when first accessing the Heroku servers.)
 
+<!-- Heroku References: https://evening-ridge-94356.herokuapp.com/ | https://git.heroku.com/evening-ridge-94356.git -->
 * [FriendFinder](https://evening-ridge-94356.herokuapp.com/)
 
 ## Local Environment Setup
