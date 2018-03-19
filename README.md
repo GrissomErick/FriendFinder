@@ -8,7 +8,7 @@ UNC Coding Boot Camp - FriendFinder - Assignment #11 (Node &amp; Express Server)
  
 **Project Description** - FriendFinder is a web application
 
-**Bonus** - 
+**Bonus** - 1
 
 ## Application Heroku Link
 The link below will give you direct access to FriendFinder web application using your web browser via the Heroku web service. (NOTE: There will be a momentary delay when first accessing the Heroku servers.)
